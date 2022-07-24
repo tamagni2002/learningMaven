@@ -15,5 +15,8 @@
 <h1>Hello Merge!</h1>
 <h2>Hello Merge!</h2>
 <h2>Hello Merge2!</h2>
+<h1>Hello From Remote!</h1>
+<h2>Hello From Remote!</h2>
+<h2>Hello From Remote2!</h2>
 </body>
 </html>
